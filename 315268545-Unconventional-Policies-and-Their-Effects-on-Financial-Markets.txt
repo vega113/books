@@ -1,0 +1,377 @@
+Unconventional Policies and Their Effects on Financial Markets
+BU-713 – Fixed Income Analysis
+Wilfrid Laurier University
+Shane Obata-Marusic
+May 29th, 2016
+
+Unconventional Policies and Their Effects on Financial Markets – Shane Obata
+Section 1 - Introduction
+These are interesting times for financial market participants. Central Banks (CBs) all over the world have been cutting rates in an attempt to support their economies. According to JP
+Morgan Asset Management, CBs cut rates more than 650 times from the collapse of Lehman Brothers in September, 2008 to the end of March, 2016. Moreover, central banks that tried to
+raise rates have had to reverse course. One issue is that many of these banks find themselves at or near the Zero Lower Bound (ZLB). This level was previously thought as the lower bound
+for interest rates. That is no longer the case. Europe and Japan have been toying with negative interest rates for some time, with mixed results. Ironically, their currencies, the Euro (EUR)
+and the Yen (JPY), respectively, appreciated following recent announcements. EURUSD rallied following the ECB’s announcement to lower three key interest rates on March 10th, 2016. In
+the same light, USDJPY fell from >120 to <110 after the Bank of Japan (BOJ) introduced negative rates in late January of 2016. One possible explanation is that market participants believe
+that central banks are nearing the limits of their effectiveness with Zero interest rate policy (ZIRP), quantitative easing (QE) and now Negative Interest Rate Policy (NIRP). As HSBC’s
+Stephen King said, “central bankers have thrown the monetary equivalent of the kitchen sink at the problem.”
+There are a couple problems associated with the current state of affairs. The first is that it is Monetary Policy is distorting the prices of financial assets. Interest rates are the most
+important variables in the financial markets because they determine prices. According to the concept of the time value of money, an asset is worth the present value of its discounted
+future cash flows. With interest rates near all-time lows, the cost of debt, and accordingly, the Weighted Average Cost of Capital (WACC) are exceptionally low. In sum, it is very hard to
+determine the intrinsic value of an asset when the rates market is distorted. The second problem is that policymakers have limited means to deal with the next economic downturn. On the
+monetary policy side, central banks do not have much room to maneuver. Furthermore, the implementation of new expansionary policies may call into question the credibility of CBs. On
+the fiscal side, governments are constrained by high debt levels and budgets that are set to deteriorate as a result of demographic headwinds & rising entitlements. Prudent reforms, such
+raising the retirement age, would help; however, they are politically in unfeasible.
+This paper is organized as follows. The next section of this paper reviews industry and academic research about unconventional policies and their effects on financial markets. Here are
+some of the key takeaways:
+1) Extreme events have become more common because of internal changes to the system
+2) Helicopter money has strong historical precedent
+3) The world economy is following in Japan’s footsteps
+4) Policymakers have used up most of their ammunition
+5) Even at the ZLB, expansionary monetary policy shocks boosted the economy
+6) The Federal Reserve’s (Fed) QE programs exerted larger effects on asset prices than on capital flows
+7) Global CBs should be concerned about the spillover effects of unconventional policies
+8) Unconventional monetary policies were effective in both the pre and post-Lehman periods
+
+Section 3 outlines the data & methodology and examines the effects of unconventional policies on rate volatility. Section 4 summarizes the main findings and presents an overview of
+policy options.
+
+*Unless otherwise stated, quotations belong to the authors of each research report. (ls – left side, rs – right side).
+
+Section 2 - Background
+Industry Research
+“The polarization principle” – Matt King (Citi Research) – May’16
+Extreme events are becoming more common, as a result of intrinsic changes to the system. There are many risks abound. In the US, there is the risk of a Trump presidency. In the UK, there
+is a potential for a Brexit. All over the world, there is a trend towards polarization in politics (ls). In Europe there is the UK Independence Party (UKIP) and the Front National. In America,
+congress is more divided than it ever has been. Polarization is also evident in the economy (rs). “Labor is losing out to profits” and small businesses are losing out to big ones.
+
+Finally, there is polarization in the markets (ls). Pairwise correlations are elevated across indices and asset classes. The world has become complex (nonlinear, sensitive to initial conditions)
+and adaptive (co-evolving with the environment, feedback determines behavior). In terms of systems, “interconnections are everything, unintended consequences are the norm.” As a
+result, the global system has become less physical and more evolutionary (rs).
+
+Technology is accelerating these processes. The world is extremely efficient in terms of information & connections. This “hastens feedback loops and evolution.” A “high degree of
+interconnection” leads to great vulnerability, since distress in one area can spread quickly to another. The resulting distribution of outcomes is negatively skewed.
+
+There are many implications of a polarized world. In politics, populations are disaffected. This leaves them vulnerable to influencers (populism), which increases the probability of extreme
+outcomes. In terms of profits, it is a “winners take all” situation. Big firms will continue to increase their market shares, making it difficult for smaller companies to make profits (ls). With
+fewer dominant firms, brand value is increasingly important. That said, top brands are more vulnerable to technological disruption? than they ever have been.
+On the employment front, more jobs have been created at the lower and higher extremes of the income distribution, with not much in between. In regards to the economy, a smaller labor
+share of has led to slower growth. Moreover, labor rigidity, which makes the hiring and firing of workers inefficient, could be reducing productivity (rs).
+
+In the credit markets, cheap financing has resulted in a massive increase in leverage. As a result, the potential for tipping points is high. Excess debt and a risk-off environment could lead to
+a wave of defaults.
+With respect to the markets, it seems as though the leverage cycle is almost over. “This may help to explain why equities are jittery.” Heightened volatility is also apparent across markets
+and asset classes. Daily moves > 4 standard deviations (SDs) have been quite frequent since late 2014.
+
+In conclusion, extreme events are becoming more common because of internal changes to the system. As a result of how things have developed, the world economy & markets are
+more vulnerable to external shocks.
+
+“Helicopters 101: your guide to monetary financing” – George Saravelos, Daniel Brehon & Robin Winkler (Deutsche Bank Research) – Apr14’16
+There are four types of monetary financing:
+1) QE combined with fiscal policy expansion: “Central banks purchase interest-bearing government debt with a temporary increase in the monetary base. This is accompanied by increased
+fiscal spending (or tax cuts), enacted by the Treasury in reaction to implicit central bank support for bond markets.” In this case, Assets (A) and Liabilities (L) rise in parallel: Bond holdings
+increase (A) and so do private-sector cash holdings (L).
+2) Cash transfers to governments: “Same as option 1 except the government debt is non-redeemable [perpetuity], and hence the increase in the monetary base is permanent.” Assets and
+liabilities rise in parallel; however, “in the case where cash is swapped for a zero-coupon perpetuity, assets and liabilities would rise correspondingly, but the central bank would make a
+loss because it would not receive a coupon on government debt while eventually having to pay interest on bank reserve balances if interest rates rise.”
+3) Haircuts on existing CB-held debt: “Restructure or forgive its government debt holdings, improving government debt sustainability and allowing the Treasury room for future deficit
+spending.” In this case, the value of government bond holdings falls (A) and Equity (E) turns negative to account for the loss.
+4) Cash transfers to households: Direct cash transfers from the central banks to individuals. Liabilities rise, “as the public’s cash holdings against the CB would show up and equity goes
+negative to account for the “loss.”
+Option 1 should read:
+A: +100 govt bonds
+L: +100 bank reserves
+Option 2:
+A: +100 govt perpetuity
+L: +100 bank reserves
+Option 3:
+A: -100 govt haircut
+E: -100 loss
+Option 4:
+L: +100 bank reserves
+E: -100 loss
+
+Monetary financing, aka “Helicopter money,” is a policy tool that has historical precedent in both developed economies (during the two world wars, etc.) and, with less success, in
+developing economies (Zimbabwe, Venezuela, etc.).
+In Japan, monetary financing was used successfully in the 1930s. As a result, Japan’s economy rebounded faster than other countries’ did. Moreover, wholesale prices “returned to predepression levels and stabilized in 1932…”
+In terms of implementation, it is more about politics than institutional constraints: “Historical experience and institutional flexibility provides plenty of room for monetary financing.
+Ultimately, it is a question of political desirability rather than technical or legal constraints.”
+
+“Helicopter money was coined by Milton Friedman (1948) as he described an escape from a Keynesian liquidity trap in the context of the Hicks-Hanson IS-LM model of the great
+depression.” John Maynard Keynes defines a liquidity trap as follows:
+
+Modern Japan “is well described by this liquidity trap definition.” Helicopter money may be the next step, since “the Bank of Japan has recently lost control of the yield curve, as evidenced
+
+by the adverse reaction of JGBs and USD/JPY to negative rates.”
+In a world where interest rates are at or near zero, only fiscal policy raises output. Monetary policy has no effect at all.
+
+Even though it has historical precedence, monetary financing comes with risks.
+A) “If the policy is not perceived as sufficient in size and impact, then the supply/demand imbalances [insufficient supply] in fixed income may be exacerbated (less issuance and debt
+outstanding) without a corresponding move higher in inflation expectations. This would lead to a market reaction similar to the one that followed the BOJ cut to negative rates earlier this
+year: Lower yields, weaker equities and a stronger currency.”
+B) “If the long-term commitment to the inflation target is challenged and central bank credibility is lost, long-dated yields would spike higher, capital flight would ensue and risk assets
+would substantially underperform.
+“A successful helicopter drop may therefore be easier said than done given the non-linearities involved: It needs to be big enough for nominal growth expectations to shift higher and small
+enough to prevent an irreversible dis-anchoring of inflation expectations above the central bank’s target.”
+Conclusion: Existing global monetary policy may have reached its limits. Helicopter money “has strong historical precedent, reasonable legislative flexibility and can prove substantially
+more powerful than traditional monetary or fiscal policy.” That said, helicopters drops carry substantial risks.
+
+“The world economy’s slow puncture” – Stephen King (HSBC Global Research) – Mar15’16
+The global financial crisis brought on a collapse in economic activity “that was completely off the post-war scale.” The subsequent recovery has been weak, especially considering how
+much central bankers have done in an attempt to boost the world economy. First there was ZIRP, QE, currency depreciation and now there is NIRP. Even so, economic growth and inflation
+continue to disappoint. The situation the global economy faces is reminiscent of Japan’s “experience in the 1990s following its 1980s boom.”
+Japan’s nominal GDP has been flat for decades. Other economies have fared better. That said, with the exception of Germany, most developed countries have ended up on lower growth
+paths since the crisis.
+
+These issues are even more pronounced when we look at GDP in per capita terms. Japan’s per capita nominal GDP has been flat since the early-mid 1990s. In the UK, Germany, France and
+Italy, per capita growth is either flat or down. The US is the only standout in this sample.
+
+To say that Japan has under delivered is an understatement. The divergence between reality and inflation forecasts made in 1995 & GDP forecasts made in the mid-1990s is simply amazing
+(ls). One of the results is that “bond yields fell further and further, continuously undershooting forecasts (rs).” Market participants have been trying to sell Japanese Government Bonds
+(JGBs) for decades, to no avail. There is a reason why this trade is known as the “widowmaker.”
+
+The same patterns are occurring in the US (ls) and in Europe, where interest rates have been converging down towards Japan’s. Slow growth and low inflation have continued to weigh on
+global rates (rs).
+
+On the fiscal side, government debt levels are causing headaches. In most of the G7 countries, government debt to GDP ratios have been rising since 1995.
+
+This has made sustained fiscal stimulus a tough sell. Concerns about excess debt can manifest themselves “in a fit of Ricardian equivalence,” in which companies and households save
+excess money in anticipation of higher tax burdens in the future.
+
+“The world economy’s slow puncture” reflects five factors:
+1) Ineffective monetary policy
+2) An absence of economic strength in other parts of the world
+3) High debt levels
+4) “Low rates of nominal expansion and flat yield curves, both of which place downward pressure on bank profitability, thereby limiting the ability and willingness of banks to extend credit,
+particularly to more risky borrowers”
+5) Downward pressure on bank shares
+Potential solutions must reduce debt or increase income. In theory, low interest rates should help by “reducing debt service costs and by making saving less attractive,” thereby
+encouraging people to spend more. Even so, if growth remains slow while rates are near zero then other options may need to be explored. QE is problematic because its main beneficiaries
+are already wealthy. These kinds of people tend to have a low marginal propensity to consume. This is why QE programs have had a bigger impact on asset prices than on the economy.
+Negative rates are problematic because they may lower the banks’ willingness to take on deposits. If that happens then people will save their money, reducing the velocity of money.
+Escape options and associated risks:
+1) Fiscal stimulus to boost demand, thereby supporting supply. Risks: Ricardian equivalence, misallocation of capital
+2) Helicopter money to boost the stock and velocity of money. Risk: Higher inflation penalizes savers to benefit borrowers
+3) Default to reduce debt levels. Risks: Benefits debtors at the expense of creditors, loss of confidence
+4) Liquidate to reduce debt. Risks: Declines in asset values could lead to more deflation, loss of confidence
+5) Trade to promote increases in living standards. A good option for all parties: “The world needs to be protected from protectionism”
+6) Protectionism to isolate economies. A bad option for all parties: The world needs more cooperation not less
+Conclusion: “Persistent undershoots in nominal economic activity since the global financial crisis” suggest that the world economy is following in Japan’s footsteps. Monetary policy
+has not been effective, especially because “devaluations simply pass deflationary pressures from one part of the world to another.” There are multiple escape options; however, each
+one carries its own risks. A sustained recovery is possible but it will take more than just monetary policy to get us there.
+
+“The world economy’s titanic problem” – Stephen King (HSBC Global Research) – May13’15
+The current economic cycle is getting old. As such, the next recession is probably closer than a new expansion is. In previous cycles, recoveries allowed policymakers to “replenish their
+ammunition.” Interest rates rose, tax revenues rebounded and budget balances improved. These developments marked a return to “policy normality.” This time around, policymakers have
+largely exhausted their munitions. Global rates are at, near or below zero. Moreover, the ECB and BOJ are fully committed to QE.
+There are three main reasons why policy has not normalized:
+1) This recovery has been particularly weak. The expansion that has taken place since mid-2009 is the softest one since the mid-1970s.
+
+2) The drawdown through the financial crisis was particularly big. As such, the global economy had to recover from a lower base.
+
+3) Persistently low inflation. Despite the best efforts of CBs, inflation targets in the US, Europe and Japan remain elusive.
+
+Potential solutions and associated risks:
+A) Try to avoid it: Raise capital requirements, develop more aggressive stress tests, etc. This will not be easy because, “in the postwar period, recessions have been caused by (unexpected)
+exogenous shocks.” From peak to trough, US policy rates have fallen an average of 6.2% during each of the downswings since the 1970s
+
+There is not much room to maneuver at current levels. If central banks decide to take rates deeply negative then they risk a run on the banks, in which depositors withdraw their funds to
+protect their savings
+B) QE. Risks: Boosts financial asset prices more than economic growth. May inflate valuations well beyond what is justified by fundamentals
+C) Move away from inflation targeting. Risks: Even if inflation is perceived as too low, monetary conditions may be too loose. Paying too much attention to consumer prices and not enough
+to asset prices & debt levels is dangerous
+D) Use fiscal policy instead of monetary policy. Risk: Constrained by debt levels, which are already very high
+E) Use fiscal & monetary policies. Risk: Inflation expectations overshoot to the upside
+Policymakers could “rebuild munitions” by raising the retirement age and, consequently, reducing excess savings. “Faced with a longer period of work – and, hence, of earned income – the
+need to save to meet a retirement nest-egg objective would be greatly reduced.” In this case, lower savings would lead to higher consumption, which would lead to higher demand and
+more investment. This is turn would lead to higher growth, which would provide higher tax revenues and higher rates. From a political standpoint, this would be nearly impossible to
+implement because older people have more voting power than younger people do.
+What could cause the next recession?
+1) Higher US wage costs and low productivity growth, leading to falling profits and, subsequently, equity prices.
+2) Systemic failures within the non-bank financial system – e.g. pensions and insurance companies fail to meet ever-increasing obligations
+3) “A recession made abroad” – China is a big risk
+4) The Federal reserve raises rates too soon
+
+Conclusion: Policymakers have used up most of their ammunition. As a result, they will be faced with unprecedented challenges during the next downturn. There are several ways to
+deal with the next recession; however, each one carries its own risks. The best option would be to promote consumption by raising the retirement age. Unfortunately, this option is
+politically untenable.
+
+Academic Research
+“Measuring the Macro. Impact of Monetary Policy at the Zero Lower Bound” – Jing Cynthia Wu (Chicago Booth & NBER) & Fan Dora Xia (Merrill Lynch) – May18’15
+Historically, the Fed used the Federal Funds Rate (FFR) to implement monetary policy. Since December of 2008, the FFR has been near zero. As a result, “the Fed has relied on
+unconventional policy tools” such as the QE programs. In this paper, the authors use a mathematical model to calculate a shadow interest rate, which is meant to “exhibit similar dynamic
+correlations with macro variables of interest in the period since July 2009 as the FFR did in data prior to the great recession.” The shadow rate “gives us a tool for measuring the effects of
+monetary policy at the ZLB.”
+The model shows that, without expansionary monetary policy, the unemployment rate would have been higher and industrial production & capacity utilization would have been lower in
+December of 2013. These results suggest that unconventional policies helped to stimulate the US economy.
+Conclusion: The shadow rate “impacts the real economy since July 2009 in a similar fashion as the effective FFR did before the great recession.” As such, it is a useful tool for
+measuring the impact of unconventional monetary policy when the FFR is bounded at the ZLB (ls). The shadow rate shows that, even at the ZLB, expansionary monetary policy shocks
+boosted the economy (rs).
+
+“A global monetary tsunami? On the spillovers of US Quantitative Easing” – Marcel Fratzscher, Marco Lo Duca, Roland Straub (ECB & CEPR) – Oct’12
+Non-standard measures that were implemented during and after the financial crisis helped to stimulate “the US economy by lowering yields, and pushing up asset prices in riskier market
+segments, thereby inducing positive wealth effects.” Even so, the ramifications for global markets were largely ignored. Some argue that the Fed’s policies “created excessive global
+liquidity, thus causing the massive acceleration of capital flows to Emerging Markets (EME) since 2009.” These flows pressured EME currencies, inflated asset prices and encouraged credit
+growth. The purpose of this report was to evaluate the impact of QE on portfolio decisions, asset prices and exchange rates.
+Three groups of US non-standard monetary policy measures:
+1) Lending to financial institutions
+2) Providing liquidity to key credit markets
+3) Purchasing assets on a large-scale
+The first two groups were meant to “mitigate the propagation of the crisis through a balance
+sheet channel.” The latter was meant to lower interest rates and to boost asset prices. QE1
+programs “triggered primarily a portfolio rebalancing across countries, with capital flowing
+mainly out of EMEs and into US equity and bond funds.” They also helped to reduce yields,
+improve liquidity and increase the availability of housing credit. QE2 programs “triggered a
+portfolio rebalancing in the opposite direction.” Money flowed from US into foreign funds
+and from bonds into EME equities. These measures had a significant impact on risk-taking by
+fund managers.
+
+Conclusion: The Federal Reserve’s QE programs had a significant impact on portfolio flows and asset prices. These policies “exerted larger effects on asset prices than on capital flows.”
+However, it seems as though the measures “exacerbated the pro-cyclicality of capital flows to EMEs.” These results indicate that global policymakers should be concerned about the
+spillover effects of unconventional policies.
+
+“International Spillovers of Central Bank Balance Sheet Policies” – Qianying Chen, Andrew Filardo, Dong He and Feng Zhu (BIS) – Nov’11
+The global financial crisis had a big impact on monetary policy. During the crisis, interest rates were lowered to near zero. As a result, central banks who wanted to continue easing had to
+implement unconventional policy alternatives, such as QE. These measures helped to stabilize the US economy. They also helped to improve risk-appetite by reducing Treasury yields &
+credit spreads and by depreciating the USD. Even so, the international spillovers were not always good. Certain emerging economies experienced rapid capital inflows & domestic credit
+growth, combined with inflationary pressures.
+Many central banks established asset purchase programs in response to the global crisis and to prolonged economic weakness. Initially, these programs were meant to provide liquidity.
+Subsequently, the focus shifted to lowering borrowing costs, so as to promote growth.
+
+Different transmission channels of CB balance sheet policies:
+1) Reducing longer-term yields
+2) Portfolio rebalancing
+3) Forward guidance
+4) Encouraging bank lending
+International channels of CB balance sheet policies:
+1) Portfolio rebalancing
+2) Carry trades & capital flows
+3) Foreign Exchange (FX)
+The international channels carried a specific set of risks: Misallocation of capital, disruptive flows, pricing pressures.
+These policies provided abundant liquidity, which may have encouraged large capital flows into a number of emerging markets. The first round of QE in the US had a significant short-term
+impact on emerging markets in Asia. Bond yields decreased, equity prices rose, exchange rates appreciated against the USD and commodities fell. Fed announcements also caused credit
+spreads to tighten.
+
+Other asset purchase programs moved markets, but not to the same extent as QE1. The first round of QE had a larger impact because Asian economies were much weaker at that time.
+Announcement days affected different countries in different ways. This suggests that the spillovers were dependent on economic context, trade-ties and cross-border financing. US QE
+spilled over to emerging market economies through the international channels that were highlighted on the previous page. As the term structure flattened, asset prices rose and
+confidence was restored.
+According to the BIS’ model, a 20 basis points (bps) US term spread shock had a significant impact on US GDP, inflation, stock prices, FX and bank credit over a 36 month period.
+
+In other advanced economies, the impact was relatively muted. That said, money growth, GDP inflation, stock prices and bank credit were mostly positive after 36 months.
+
+In the emerging economies, there was a significant impact on GDP, inflation, stock prices, bank credit, FX and money growth. However, the impact of US QE varied across countries,
+“implying that different transmission and adjustment mechanisms might dominate in different economies.”
+Conclusion: In the short term, US QE helped to boost risk assets. In the medium term, it helped the US but had a muted effect on other advanced economies. The impact on emerging
+markets was significant but the benefits and costs were not evenly distributed. “Differences in responses may reflect significant differences across economies.”
+
+“Unconventional Monetary Policy in Theory & in Practice” – Martina Cecioni, Giuseppe Ferrero & Alessandro Secchi (Banca D’Italia) – Sep’11
+Unconventional monetary policy is transmitted through two channels:
+1) The signaling channel, which consists of forward guidance
+2) The portfolio-balance channel, which involves asset purchase programs and the provision of credit to non-financial institutions
+
+The Federal Reserve adopted various unconventional measures during and following the financial crisis. Before Lehman collapsed, the Federal Reserve provided liquidity through the Term
+Discount Window Program (TDWP), the Term Auction Facility (TAF), Reciprocal Currency Agreements (RCA), Term Securities Lending Facility (TSLF), Single-Tranche OMO Program and
+Primary Dealers Credit Facility (PDCF).
+
+In September 2008, “the net asset value of some important money market funds fell below the target value of one dollar per share and these funds received massive requests for
+redemptions.” At this point, there was a severe liquidity shortage, which almost resulted in the collapse of the financial system. In response, the Fed adopted additional unconventional
+programs such as the ABCP Money Market Fund Liquidity Facility (AMLF) & Commercial Paper Funding Facility (CPFF), Term Asset-Backed Securities Loan Facility (TALF) and asset purchases
+of agency debt, agency MBS & Treasuries.
+
+In theory, the signaling channel is used to convey a central banks’ intentions regarding the path of short-term interest rates, asset purchases or new measures.
+The portfolio-balance channel is “activated through central bank operations” such as asset purchase programs, swaps and liquidity injections. These measures are meant to influence asset
+prices and yields in a favorable manner.
+
+Most studies pertaining to measures adopted by the Fed in the pre-Lehman phase show that the TAF, TSLF & RCA were effective in improving liquidity and access to USD funding.
+
+Studies pertaining to measures adopted by the Fed in the post-Lehman phase show similar results. AMLF, CPFF, TALF and asset purchases were effective in lowering yields, spreads and
+Treasury rates.
+
+Unconventional measures also helped to improve macroeconomic variables, “avoiding a collapse in output and the threat of deflation.”
+
+Conclusion: Unconventional monetary policies were effective in both the pre and post-Lehman periods. They helped the financial markets and the economy by boosting liquidity and
+output. “However, a definite assessment of the overall benefits and costs of unconventional measures is not yet possible.” Potential risks include the challenges associated with
+reversing these measures and distortions associated with prolonged periods of liquidity provision.
+
+Section 3 - Analysis
+Legend:
+
+Order of procedures:
+1) Historical prices for the US 10-Year Treasury Yield were imported from Yahoo Finance. The data consisted of Open, High, Low and Close prices from January 4th, 1995 to May 27th,
+2016
+
+2) In order to gauge the magnitude of daily price movements, “true range” values were calculated using the following formula: Max[(high – low), abs(high – previous day’s close),
+abs(low – previous day’s close)]
+
+3) Each “true range” value was divided by that day’s closing price, to account for the level of interest rates
+
+This step was implemented to ensure comparability across data points. If the “true range” was used instead of TR / C then big absolute moves would have skewed the results. The
+“true range” was 37.4 bps on March 8th, 1996. This was one of the biggest moves in the entire dataset
+
+However, interest rates were relatively high at that time. The 10-Year Yield closed at 6.412% on that day. After adjusting for the level of interest rates, the TR / AC ratio was just
+0.058, which equates to the 131st biggest move in the dataset
+
+4) Three date ranges were defined. The first range consists of the entire sample, which spans from January 4th, 1995 to May 27th, 2016. The second range starts on January 4th, 1995
+and finishes on August 15th, 2007. The third range begins on August 18th, 2007 – the first trading day after the Fed announced the TDWP – and ends on May 27th, 2016
+
+5) Median TR / C and standard deviation were calculated for each date range
+
+These numbers were used to determine daily moves, in terms of the number of SDs away from the median
+
+Each answer was rounded to one decimal place to simplify the analysis
+
+6) A) The rounded data were used to construct the ensuing frequency histograms. The first thing to notice is that the distribution is positively skewed. This is why the median TR / C
+was used instead of the average
+
+The median TR / C ratio is 0.017 and the SD is 0.015. The number of observations per row decreases as the number of SDs per move increases
+
+B) The second histogram is almost identical in shape to the first. The median TR / C and SD are largely unchanged. Each value in the “Adjusted” column was computed by dividing
+the number of SD moves by the number of observations. For example, to arrive at 0.04361, the “Adjusted” value for “# of 2.0-3 SD moves,” 149 was divided by 3417. The color fills
+were used to compare the two subsets of date ranges. A green fill represents the highest value whereas a red one represents the lowest value. This date range contains the
+highest “Adjusted” numbers for four of the seven rows of SD moves.
+
+C) The last histogram is interesting because of the fat fails. Despite having the lowest rankings for four of the seven rows of SD moves, this distribution has the highest “Adjusted”
+number for 6.1-7, 7.1-8 and 8+ SD moves.
+
+Four of the biggest SD moves took place in late-2008 and early 2009, in the depths of the financial crisis.
+
+The second biggest move, which was 9.8 SDs away from the median, took place on October 15th, 2014. That day was marked by a flash crash (“Flash Crash 1”) in the Treasury market,
+during which 10-year Treasury yields collapsed by 34 basis points due to risk-off pressures, computer-driven trading and impaired liquidity.
+
+Another interesting observation is all of the 4+ SD moves in the entire sample have occurred since 2008.
+
+It seems as though the financial crisis and unconventional policies have changed the rates complex forever…
+
+Section 4 - Summary & Conclusions
+Unconventional policies were implemented successfully during and after the global financial crisis. Expansionary shocks boosted the economy, even though interest rates were stuck at the
+ZLB. QE programs, which were transmitted through various channels, exerted larger effects on asset prices than on capital flows. However, it seems as though the measures intensified the
+capital flows in and out of emerging markets. Thus, global central banks should be concerned about the spillover effects of their programs.
+In this cycle, policymakers have applied ZIRP, QE and NIRP. Still, the world economy continues to grow at a listless pace. Typically, recoveries allowed policymakers to “replenish their
+ammunition,” as interest rates & tax revenues rose and budget balances improved. Those circumstances allow for expansionary monetary & fiscal policy. This time around, policymakers
+are left with limited means to fight the next recession.
+
+What does the future hold?
+We may have already reached the limits of monetary stimulus; however, there are still policy options available. Fiscal stimulus would probably help the global economy but many
+governments are constrained by sky-high debt levels and deteriorating budget balances. Monetary financing has historical precedence, but each of its forms comes with associated risks.
+Entitlement reform is necessary; however, it is politically untenable.
+One thing is for sure, the world needs more cooperation and not less of it. Global trade is a much better option than protectionism…
+
+In regards to the markets, unconventional policies have changed the nature of the system. Polarization has increased the incidence of extreme outcomes. Adjusted for the level of interest
+rates, the moves that have taken place in the Treasury market since 2008 are unprecedented. Unless policy is normalized, market participants should prepare for sustained periods of
+elevated volatility.
+- Shane Obata-Marusic
+
+References
+Industry
+“The polarization principle” – Matt King (Citi Research) – May’16
+“Helicopters 101: your guide to monetary financing” – George Saravelos, Daniel Brehon & Robin Winkler (Deutsche Bank Research) – Apr14’16
+“The world economy’s slow puncture” – Stephen King (HSBC Global Research) – Mar15’16
+“The world economy’s titanic problem” – Stephen King (HSBC Global Research) – May13’15
+
+Academic
+“Measuring the Macro. Impact of Monetary Policy at the Zero Lower Bound” – Jing Cynthia Wu (Chicago Booth & NBER) & Fan Dora Xia (Merrill Lynch) – May18’15
+“A global monetary tsunami? On the spillovers of US Quantitative Easing” – Marcel Fratzscher, Marco Lo Duca, Roland Straub (ECB & CEPR) – Oct’12
+“International Spillovers of Central Bank Balance Sheet Policies” – Qianying Chen, Andrew Filardo, Dong He and Feng Zhu (BIS) – Nov’11
+“Unconventional Monetary Policy in Theory & in Practice” – Martina Cecioni, Giuseppe Ferrero & Alessandro Secchi (Banca D’Italia) – Sep’11
+
+
